@@ -1,0 +1,9 @@
+export const githubImage= require('./images/github02.png');
+export const image1 = require('./images/1.jpeg');
+export const image2 = require('./images/2.jpeg');
+export const image3 = require('./images/3.jpeg');
+export const image4 = require('./images/4.jpeg');
+export const image5 = require('./images/5.jpeg');
+export const image6 = require('./images/6.jpeg');
+export const image7 = require('./images/7.jpeg');
+export const image8 = require('./images/8.jpeg');
